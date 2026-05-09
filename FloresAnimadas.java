@@ -6,7 +6,7 @@ import java.util.Random;
 public class FloresAnimadas extends JPanel {
  
     // ── Configuración (Integrante A agrega más flores; B ajusta velocidad) ──
-    static final int NUM_FLORES = 6;       // Integrante A cambia esto
+    static final int NUM_FLORES = 12;       // Integrante A cambia esto
     static final int VELOCIDAD_MS = 15;    // Integrante B cambia de 30 a 15 (más rápido)
  
     private final ArrayList<Flor> flores = new ArrayList<>();
