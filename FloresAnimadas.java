@@ -87,4 +87,4 @@ public class FloresAnimadas extends JPanel {
             frame.setVisible(true);
         });
     }
-}
+} 
